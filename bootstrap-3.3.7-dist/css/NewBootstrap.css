@@ -1,0 +1,60 @@
+
+.imageback {
+    background-color: #90dd00 ;
+    margin-top: 40px;
+    
+}
+
+
+.fullback {
+    background-color: #f7e818 ;
+}
+
+.fontsize {
+    font-size: 1.34em ;
+}
+
+.fontnew {
+    font-family: Comic ;
+}
+
+.newfooter {
+    background-color: #D3D3D3; 
+    
+}
+
+.margin {
+    margin-left: 200px;
+}
+
+
+
+.dividerec {
+    height: 5px;
+    width: 1000px;
+    background-color: #1596db
+}
+
+.underlinenew {
+    text-decoration: underline;
+}
+
+.textalign {
+    text-align: center;
+    
+
+}
+
+.background {
+    background-color: #efd543;
+}
+
+.margintop {
+    padding-top: 80px
+}
+
+
+.abbackground {
+      background-color: #59dff9;
+}
+
