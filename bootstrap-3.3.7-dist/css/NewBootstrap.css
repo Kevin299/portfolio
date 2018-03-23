@@ -1,6 +1,6 @@
 
 .imageback {
-    background-color: #90dd00 ;
+    background-color: #ffaf26 ;
     margin-top: 40px;
     
 }
@@ -23,8 +23,8 @@
     
 }
 
-.margin {
-    margin-left: 200px;
+.textcolor {
+    color : #000000;
 }
 
 
@@ -46,11 +46,11 @@
 }
 
 .background {
-    background-color: #efd543;
+    background: linear-gradient(green, yellow);
 }
 
 .margintop {
-    padding-top: 80px
+    margin-top: 50px
 }
 
 
@@ -58,3 +58,17 @@
       background-color: #59dff9;
 }
 
+.border {
+    padding: 10px;
+    border: 50px ;
+    color: #000000;
+}
+
+.marginnew {
+    margin-right: 50px;
+}
+
+.imageborder {
+    background-color: #000000;
+    margin-right: 50px
+}
